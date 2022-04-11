@@ -1,0 +1,89 @@
+An Operating System 
+is a software that acts a
+s an interface between computer hardware components and the user.
+
+Every computer system must have at least one operating system
+to run other programs.
+
+Applications like Browsers, MS Office, Notepad Games, etc.,
+need some environment to run and perform its tasks.
+_____________________________________
+
+Picture it like how she (Operating System) handles all the household chores
+and delegate some of her tasks to her maid (Kernel).
+
+OS
+
+Operating System helps to communicate with the
+computer without knowing the computer's language.
+
+There are many systems for which Operating Systems 
+are designed for such as Personal Computers(PC), 
+Mobile Phones, Workstations, Servers, and WSCs(Warehouse scale computers).
+
+Kernel
+
+A Kernel is a special program 
+(a person like your maid), who has some extra privileges,
+which handles most of the tasks (Random-access memory, 
+Input/Output devices, Resource Management, Memory Management,
+Device Management), and in case of your maid (mopping the floor,
+cleaning the bathroom and bringing the veggies, etc.) 
+delegated by the Operating System (The Homemaker)
+________________________________________________
+Example of Operating Systems
+
+    Windows
+    Macintosh
+    IpadOs
+    Android
+    Linux
+    BSD
+    Solaris
+    _______________________________________
+    types of OS
+    
+    
+ 1>Simple Batch Systems   
+The user fed an input to the computer operator, who gathered similar jobs(tasks to be performed) 
+and placed an entire batch (group of similar type tasks) 
+
+for utilization by the monitor. 
+2>Time-Sharing Systems
+
+It has been developed to provide user 
+interaction directly with the computer.
+
+Since, In batch multiprogramming, 
+we used to provide JCL (Job control commands) with the job.
+
+But things like transaction processing,
+we needed user-interaction.
+
+Therefore the concept of 
+time-sharing has been introduced.
+In this, a system clock generated
+interrupts at a rate of around one every 0.2 seconds.
+
+3>Real-Time Operating System
+
+In a real-time system, 
+the time interval between input request and output is very small,
+
+so these systems can be used in 
+time constraint places like military software systems,
+space softwares, etc.
+
+4>Distributed Operating System
+
+In distributed various computers,
+interconnected with each other 
+communicate with each other through
+the shared communication network.
+
+Each machine has its own
+processors and memory
+unit for fast computation.
+
+These are also known as distributed systems.
+_____________________________
