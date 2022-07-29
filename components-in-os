@@ -1,0 +1,19 @@
+COMPONENTS OF OS -------------------------------------userspce+kernelspace = os-------------
+
+1> User space
+creating apps and  run apps, but it doesn't have direct access to h/w
+-gui and cli , gui for graphical , easy operation
+cli - for commands , gui work can be done on cli too , example are shell,bash
+
+
+we can manage files using cli and gui both -> it comes under user space
+OS - helps it  to interacts with H/W
+
+2> Kernel Space
+access to h/w directly
+KERNEL - HEART OF OS(guthhali): it have direct access to majdoor
+---------------------------------------------
+example of accessing userspace and kernelspace
+
+script helloworld.sh when runs   then
+
