@@ -16,4 +16,9 @@ KERNEL - HEART OF OS(guthhali): it have direct access to majdoor
 example of accessing userspace and kernelspace
 
 script helloworld.sh when runs   then
+-----------------------------------------------------------------
+
+Functions of kernel:: 
+
+process management come under kernel space. => context-switching, process sync, process comm.
 
