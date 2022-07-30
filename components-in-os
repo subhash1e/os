@@ -20,5 +20,29 @@ script helloworld.sh when runs   then
 
 Functions of kernel:: 
 
-process management come under kernel space. => context-switching, process sync, process comm.
+1> process management come under kernel space. => context-switching, process sync, process comm.
+
+1.2 > Memory management : 
+
+2> file management come under kernel space. => create/delete , directory management
+    tree real life example - implement file directoris
+3> I/O controller : management and controlling of all I/Os devices.
+  spooling  : 
+   Buffering : 
+   Caching :  
+   
+---------------------TYPESS oF KerNel---------------------------------------------------
+Monolithic Kernel : 
+oldest type of kerne;
+all four module is present inside kernel : hw/userspace/kernelspace
+
+adv - fast communication bw different  comp o fkernel
+disadv- bulky,less reliable,
+
+e - linux, msdos
+
+
+-------------Kernel Mode: switch bw user and kernel using sw interrupt
+
+-------------------------------------------------------------------------------------
 
